@@ -1,5 +1,5 @@
 # covid-19 Data Analysis using Python
-### Coursera
+#### Coursera
 This repository contains an analysis related to the COVID-19 pandemic.
 In this project, I worked with the COVID19 dataset, published by John Hopkins University, which consists of the data related to the cumulative number of confirmed cases, per day, in each country. Also, another dataset consist of various life factors, scored by the people living in each country around the globe. We merged these two datasets to see if there is any relationship between the spread of the virus in a country and how happy people are, living in that country.
 Walked through these steps:
@@ -32,4 +32,4 @@ The jupyter notebook file is well-documented. Code was written with the intent o
 
 Anyone who is interested to get some practical understanding of Data Analysis can do this hands on project. 
 
-Feel free to ask for any help: <b>ayushisaxenamtr@gmail.com</b>
+## Feel free to ask for any help: <b>ayushisaxenamtr@gmail.com</b>
